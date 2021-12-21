@@ -101,8 +101,6 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 
 •	Guide them to the right service needed for their business needs
 
-•	Clear guidelines on the cost of the services they require
-
 •	 Help potential clients to understand why they need an accountant and encourage them to get in touch via the Contact Us form
 
 
@@ -150,7 +148,7 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 
 Each page of the website has a responsive navigation bar, both across the top and the bottom. All the pages feature the company logo on the top left-hand side of the page, as well as featuring a hero image. The hero images are all relevant to the firm and the values they want to get across i.e., professionalism, clean, clear images. The footer of each page also has the company’s contact details (phone number & address), as well as links to the social media handles (LinkedIn & Instagram). 
 
-Home Page: the homepage of the website contains a hero image, which is a reflection of the company and gives the vibe of being a professional, clean business. The logo is clear and concise, it states exactly what the company is about (UA Accountancy). Just below the logo there is the company’s tag line (Where Service Meets Value) and a small ‘Contact Us’ button, when clicked takes the customer straight to the Contact Us form. The hero image is the background image, with the logo, company tagline and the nav bar overlapping it. The nav bar runs across the top with each button linking to a different page of the website and is fully responsive on both desktop mobile/tablet devices. 
+Home Page: the homepage of the website contains a hero image, which is a reflection of the company and gives the vibe of being a professional, clean business. The logo is clear and concise, it states exactly what the company is about (UA Accountancy). Just below the logo there is the company’s tag line (Where Service Meets Value) and a small ‘Contact Us’ button, when clicked takes the customer straight to the 'Contact Us' form. The hero image is the background image, with the logo, company tagline and the nav bar overlapping it. The nav bar runs across the top with each button linking to a different page of the website and is fully responsive on both desktop mobile/tablet devices. 
 
 The homepage has a brief overview of the company, services provided and its business values. When clicking on the ‘Read More’ button, it will take the customer to the ‘About Us’ page. The homepage also features some icons, for customers who are more visually inclined, with an overview of all the services provided by the company. 
 
@@ -185,12 +183,11 @@ This page also has an iframe of google maps, showing the exact location of the c
 •	Contact Form - Allows potential clients to ask questions, and/or make the first step in hiring the Accounting Firm. The detailed form on the Contact Us page also allows potential clients to add additional information on what services they are looking for based on what kind of organisation they are running
 
 
-**Features to Implement in future**
+**Features to Implement in the future**
 
 •	GDPR Compliant Pop-Up Screen – this will ensure that the company complies with the EU data protection laws, by enabling visitors to the website to approve or deny the processing of their personal data
 
 •	Testimonials – this will give any potential customers the confidence to hire the company
-
 
 •	Collapsible Buttons on Services Page – this will allow any potential to get more information on the services that the company provides (requires JavaScript)
 
