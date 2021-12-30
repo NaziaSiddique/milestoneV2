@@ -6,7 +6,7 @@
 <img width="923" alt="Screenshot 2021-12-18 at 18 02 48" src="https://user-images.githubusercontent.com/36114589/146651355-6cda5b4d-0405-456d-b824-3305ec17e5bf.png">
 
 
-[View the live project here](https://naziasiddique.github.io/milestone/)
+[View the live project here](https://naziasiddique.github.io/milestoneV2/)
 
 This is an information-based website for an Accounting Firm based in Staffordshire, UK. The website features include a home page with a banner (the hero image), an 'About Us' page, the 'Services' page and a 'Contact Us' page. The main aim of the website is to provide information on the Accountancy Firm’s Services and to generate potential client leads – which is done through the ‘Contact Us’ call to action button available on the 'Home' and 'Contact Us' pages. 
 
