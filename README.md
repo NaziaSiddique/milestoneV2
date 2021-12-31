@@ -293,7 +293,7 @@ Google Fonts were used to import Montserrat fonts into styles.css. This were cho
 
 - Homepage
 
-<img width="1656" alt="Screenshot 2021-12-31 at 07 02 28" src="https://user-images.githubusercontent.com/36114589/147824942-eb78dd30-49bb-466d-9409-ab3c7a9a3bde.png">
+<img width="1667" alt="Screenshot 2021-12-31 at 16 33 30" src="https://user-images.githubusercontent.com/36114589/147832532-4d9881ae-0cb9-4a89-a444-ab14057cd876.png">
 
 - About Page
 
