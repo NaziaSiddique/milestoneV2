@@ -234,6 +234,10 @@ Google Fonts were used to import Montserrat fonts into styles.css. This were cho
 
 <img width="394" alt="ContactWireframe" src="https://user-images.githubusercontent.com/36114589/146462168-e2b831a7-f8fa-4346-bf41-b344f060bd7d.png">
 
+**Tablet Wireframe of Landing Page**
+
+<img width="300" alt="TabletWireframe" src="https://user-images.githubusercontent.com/36114589/147824857-75933bf9-8002-4aea-aeba-7b9b489f9a61.png">
+
 **Mobile Wireframe of Landing Page**
 
 ![MobileWireframeHome](https://user-images.githubusercontent.com/36114589/146462489-2f635c44-eb5c-4144-8d01-47fb80f104f4.png)
@@ -284,6 +288,24 @@ Google Fonts were used to import Montserrat fonts into styles.css. This were cho
 <img width="1630" alt="Screenshot 2021-12-16 at 21 33 26" src="https://user-images.githubusercontent.com/36114589/146452202-34046015-a0f9-45fc-afb5-f46f114b450b.png">
 
 - There were no errors in the CSS
+
+**LightHouse Report**
+
+- Homepage
+
+<img width="1656" alt="Screenshot 2021-12-31 at 07 02 28" src="https://user-images.githubusercontent.com/36114589/147824942-eb78dd30-49bb-466d-9409-ab3c7a9a3bde.png">
+
+- About Page
+
+<img width="1667" alt="Screenshot 2021-12-31 at 13 10 10" src="https://user-images.githubusercontent.com/36114589/147825125-040dab63-ccb8-49ee-81b4-5350a0bb9469.png">
+
+- Services Page
+
+<img width="1667" alt="Screenshot 2021-12-31 at 13 17 12" src="https://user-images.githubusercontent.com/36114589/147825374-e17898bf-6e1b-4506-aef8-57bc08f8b146.png">
+
+- Contact Page
+
+<img width="1656" alt="Screenshot 2021-12-31 at 06 35 15" src="https://user-images.githubusercontent.com/36114589/147824968-804100ee-bb5e-4357-9067-758a3746cd8f.png">
 
 **Browser Compatibility**
 
