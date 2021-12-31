@@ -810,3 +810,32 @@ h2 .title {
 section.service ul li {    
     list-style: unset;
   }
+  .header {
+    padding: 10px 0px;
+}    
+.header .outer_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.header .outer_header a {
+    color: #000;
+}
+.header .outer_header nav.navbar {
+    padding: 0px;
+}
+.header .outer_header nav.navbar ul li a {
+    padding: 10px 25px;
+    color: #fff;
+}
+.header .outer_header .navbar-collapse.show {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 100%;
+    background-color: #000;
+}
+.header .outer_header .outer-div {
+    width: 100%;
+}

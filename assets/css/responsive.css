@@ -7,7 +7,31 @@
 @media only screen and (max-width: 991px){
     .header-main .left-logo img {
         max-width: 150px;
+        padding-left: 15px;
     }
+ 
+    .header-main .container {
+        padding: 0px;
+    }
+    .header .outer_header {
+        width: 100% !important;
+        display: block;
+    }
+    .header .outer_header .left-logo.pull-left {
+        float: none;
+    }
+.header .outer_header button.navbar-toggler {
+    outline: none;
+    position: absolute;
+    right: 15px;
+    top: -55px;
+    font-size: 34px;
+    width: 40px;
+    height: 35px;
+     text-align: center;
+    padding: 0px;
+    color: #fff;
+}
 
     .header-main {
         padding: 30px 0 10px;
