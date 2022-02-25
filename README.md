@@ -165,6 +165,12 @@ Contact Us Page: This page, again, has a hero image, which overlaps the logo, he
 
 This page also has an iframe of google maps, showing the exact location of the company’s offices, as well as the company’s contact number and the footer has links to the social media handles (LinkedIn & Instagram).
 
+New and existing clients are able to find the services the business offers.
+The address and contact details are available on every page for customers use, making it easier for customers to get in touch. All customers users requirements in terms of navigating and contacting the business were fulfilled.
+
+
+<img width="1595" alt="Screenshot 2022-02-24 at 23 58 46" src="https://user-images.githubusercontent.com/36114589/155627704-3c0ad960-cd8f-42c8-bea9-9aa258f0e974.png">
+
 
 **Existing Features**
 
