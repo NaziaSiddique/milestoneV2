@@ -124,6 +124,7 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 
     2.	As a potential client, I want to be clear on the type of service they offer.
 
+
     3.	As a potential client, I want to be able to fill in the Contact Us form easily and not find it time consuming.
     
     4. As a potential client, I want to be able to access the firms social media to see how they come across.
@@ -161,15 +162,23 @@ About Us Page: The hero image on this page is of the client in a business meetin
 Services Page: This page features another hero image, which overlaps the logo, header and the nav bar. On this page there is a list of the services provided by the company and logos of all the institutes that company is registered or associated with, giving it that professional vibe. As these institutes are well known in the accounting industry, it will give any potential clients confidence in the company’s services. The footer of the page has the company’s contact details (phone number & address), as well as links to the social media handles (LinkedIn & Instagram).
 
 
-Contact Us Page: This page, again, has a hero image, which overlaps the logo, header and the nav bar. This page has a more enhanced contact us form, to allow the customer to input more data about what organisation they have and what kind of services they are looking for. This will make it easier for the company to better understand the customers’ needs and when responding they can tailor their response to suit the customer. with and the number and google map image to show location of office. The contact us form has the drop-down options, radio buttons to capture additional information. The contact us form has the 
+Contact Us Page: This page, again, has a hero image, which overlaps the logo, header and the nav bar. This page has a more enhanced contact us form, to allow the customer to input more data about what organisation they have and what kind of services they are looking for. This will make it easier for the company to better understand the customers’ needs and when responding they can tailor their response to suit the customer. Also the number and google map image to show location of office for new and potential customers.
+
+<img width="1678" alt="Screenshot 2022-03-31 at 22 32 41" src="https://user-images.githubusercontent.com/36114589/161153295-977190b1-7fb8-49e6-b519-bc4e05756787.png">
+
 
 This page also has an iframe of google maps, showing the exact location of the company’s offices, as well as the company’s contact number and the footer has links to the social media handles (LinkedIn & Instagram).
 
-New and existing clients are able to find the services the business offers.
-The address and contact details are available on every page for customers use, making it easier for customers to get in touch. All customers users requirements in terms of navigating and contacting the business were fulfilled.
+<img width="1218" alt="Screenshot 2022-03-31 at 22 25 59" src="https://user-images.githubusercontent.com/36114589/161152041-33185f06-e0f8-480a-8462-29b64c4896b6.png">
 
+New and existing clients are able to find the services the business offers.
+The address and contact details are available on every page for customers use, making it easier for customers to get in touch. All customers users requirements in terms of following them on social media and contacting the business were fulfilled.
 
 <img width="1595" alt="Screenshot 2022-02-24 at 23 58 46" src="https://user-images.githubusercontent.com/36114589/155627704-3c0ad960-cd8f-42c8-bea9-9aa258f0e974.png">
+
+The website has a contact page for new cvisitors or potential clients to easily ask questions or contact the firm.
+
+<img width="912" alt="Screenshot 2022-03-31 at 22 39 20" src="https://user-images.githubusercontent.com/36114589/161153865-26ecade9-b62f-4157-a782-a7eb123c0e9c.png">
 
 
 **Existing Features**
@@ -187,6 +196,16 @@ The address and contact details are available on every page for customers use, m
 •	About Us Page - Allows potential clients to quickly get an overview of the company and its values; a small About Us section is also visible on the Homepage of the website
 
 •	Contact Form - Allows potential clients to ask questions, and/or make the first step in hiring the Accounting Firm. The detailed form on the Contact Us page also allows potential clients to add additional information on what services they are looking for based on what kind of organisation they are running
+
+•	The services offered are listed out on the homepage for ease aswell as the credentials from authorised bodies to show they are good and genuine. This would be something anew user or a potential client would be interested in.
+
+<img width="1218" alt="Screenshot 2022-03-31 at 22 24 38" src="https://user-images.githubusercontent.com/36114589/161151860-5e879063-4966-4455-a35c-24ccbaa75eae.png">
+
+•  Companies values have been added to the website for customers peace of mind, especially new clients who do not know the business 
+
+<img width="1032" alt="Screenshot 2022-03-31 at 22 42 34" src="https://user-images.githubusercontent.com/36114589/161154128-c5ba71d5-63f6-4dbc-8afa-7e2cc059ea76.png">
+
+
 
 
 **Features to Implement in the future**
@@ -209,7 +228,9 @@ The address and contact details are available on every page for customers use, m
 
 •	FAQ Page – this will give potential clients answers to the most asked questions via a table with FAQs and dropdown buttons to view answers (JavaScript required for dropdown functionality)
 
-•	Company Blog – this will be an avenue for potential/existing clients to discover the website through articles and keyword searches, will provide information on latest news, hints/tips and answer FAQs. Company is looking to set this up soon
+•	Company Blog – this will be an avenue for potential/existing clients to discover the website through articles and keyword searches, will provide information on latest news, hints/tips and answer FAQs. Company is looking to set this up soon.
+
+•  Opening times need to be added once the firm finalises their opening times. This can be added in the footer or the contact page.
 
 
 ## Design
