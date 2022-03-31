@@ -232,6 +232,10 @@ The website has a contact page for new cvisitors or potential clients to easily 
 
 •  Opening times need to be added once the firm finalises their opening times. This can be added in the footer or the contact page.
 
+•  Subscribe option will be added once the owners have decided who will be updating or sending out the onformation for the newsletter.
+
+•. A dropdown with all the services offered under the services button will be added for the ease and convenience of the client to allow then to get to the information required quickly.
+
 
 ## Design
 
